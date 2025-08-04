@@ -1,7 +1,7 @@
 <h2 style="text-align: center;">Hey!</h2>
 
 <p style="text-align: center;">
-    I am currently a post-doctoral research scientist at the Lamont-Doherty Earth Observatory (LDEO) at Columbia University.
+    I am currently a researcher at NORSAR, based in Norway.
 </p>
 
 <p style="text-align: center;">
@@ -9,7 +9,7 @@
 </p>
 
 <p style="text-align: center;">
-    At LDEO, I am working as part of the AVERT (Anticipating Volcanic Eruptions in Real Time) project to develop and field test a rugged hardware/software system for multi-disciplinary monitoring of remote volcanic systems. We are currently operating a near-real-time network on Cleveland volcano, in the Aleutian arc, as well as supporting the efforts of the Alaska Volcano Observatory at nearby Okmok volcano. Data from our geodetic, seismic, magnetic, and imagery (both infrared and visible spectrum) instruments are transmitted via satellite back to our servers, where they are made immediately available via our web portal.
+    During my postdoc at the Lamont-Doherty Earth Observatory, I worked as part of the AVERT (Anticipating Volcanic Eruptions in Real Time) project to develop and field test a rugged hardware/software system for multi-disciplinary monitoring of remote volcanic systems. Data from our geodetic, seismic, magnetic, and imagery (both infrared and visible spectrum) instruments are transmitted via satellite back to a server, where they are made immediately available via a web portal.
 </p>
 
 <p style="text-align: center;">
